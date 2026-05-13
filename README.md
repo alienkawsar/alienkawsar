@@ -71,15 +71,6 @@
 
 ## 📂 Featured Interests & Projects
 
-### 🏥 National Digital Healthcare System
-
-Researching and planning a scalable nationwide healthcare ecosystem for Bangladesh featuring:
-- Digital Prescriptions
-- Smart Appointment Systems
-- Emergency Support Integration
-- Health Insurance Integration
-- Hospital & Bed Management
-
 ### 🤖 AI & Local LLM Systems
 
 Experimenting with:
