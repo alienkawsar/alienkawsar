@@ -93,7 +93,6 @@ Worked on:
 - Docker & Container Ecosystems
 - DevOps Fundamentals
 - AI Agentic Workflows
-- Japanese Language 🇯🇵
 
 ---
 
