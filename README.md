@@ -24,7 +24,6 @@
 - 🤖 Experienced with AI-assisted development workflows
 - 🧠 Interested in Artificial Intelligence, Cybersecurity, and System Design
 - 🐧 Linux & Open Source Enthusiast
-- 🌏 Aspiring Software Engineer in Japan 🇯🇵
 - 🔬 Researching Digital Healthcare Ecosystems & Smart Systems
 - 🎨 Experienced in Graphics Design & UI/UX Concepts
 
